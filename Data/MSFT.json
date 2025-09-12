@@ -1,0 +1,51 @@
+[
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft and Meta fuel $500-billion gain in AI stocks",
+    "date": "2025-07-31",
+    "summary": "Wall Street's AI heavyweights added a combined half a trillion dollars in stock market value late on Wednesday after quarterly reports from Microsoft (MSFT.O), opens new tab and Meta Platforms (META.O), opens new tab showed massive investments in the emerging technology were paying off. In extended trade, Microsoft jumped 8% and Meta surged 9%, with the two Magnificent Seven companies increasing their market values by $288 billion and $152 billion, respectively.",
+    "url": "https://www.reuters.com/business/retail-consumer/microsoft-meta-fuel-500-billion-gain-ai-stocks-2025-07-30/"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft sued by authors over use of books in AI training",
+    "date": "2025-06-26",
+    "summary": "A group of authors sued Microsoft, alleging it used pirated copies of their books to train its Megatron AI model without permission. The case adds to a wave of copyright lawsuits against major AI firms, following a recent court ruling on Anthropic’s use of copyrighted works.",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/microsoft-sued-by-authors-over-use-books-ai-training-2025-06-25/"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft knew of SharePoint security flaw but failed to effectively patch it, timeline shows",
+    "date": "2025-07-23",
+    "summary": "LONDON, July 22 (Reuters) - A security patch Microsoft (MSFT.O), opens new tab released this month failed to fully fix a critical flaw in the U.S. tech giant's SharePoint server software, opening the door to a sweeping global cyber espionage effort, a timeline reviewed by Reuters shows. On Tuesday, a Microsoft spokesperson confirmed that its initial solution to the flaw, identified at a hacker competition in May, did not work, but added that it released further patches that resolved the issue.",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/microsoft-knew-sharepoint-security-flaw-failed-effectively-patch-it-timeline-2025-07-22/"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft's AI edge under scrutiny as OpenAI turns to rivals for cloud services",
+    "date": "2025-07-29",
+    "summary": "Microsoft (MSFT.O), opens new tab investors head into Wednesday's earnings with one big question: is the company's artificial intelligence edge at risk as partner OpenAI turns to rivals Google, Oracle and CoreWeave (CRWV.O), opens new tab for cloud services? Exclusive licensing deals and access to OpenAI's cutting-edge models have made Microsoft one of the biggest winners of the generative AI boom, fueling growth in its Azure cloud business and pushing its market value toward $4 trillion.",
+    "url": "https://www.reuters.com/business/microsofts-ai-edge-under-scrutiny-openai-turns-rivals-cloud-services-2025-07-29/"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft has become the next $4 trillion company",
+    "date": "2025-08-01",
+    "summary": "Microsoft hit a $4 trillion market valuation after strong earnings and booming AI-driven growth in Azure and Microsoft 365, becoming the second company after Nvidia to reach the milestone. Its stock has surged nearly 50% since April 2025, fueled by OpenAI-powered products, record revenues, and heavy AI investments despite ongoing layoffs.",
+    "url": "https://edition.cnn.com/2025/07/31/tech/microsoft-4-trillion-valuation/"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Here’s What Sent Microsoft Corporation (MSFT) Higher",
+    "date": "2025-08-20",
+    "summary": "Microsoft has grown from its traditional Windows and Office products into a $160 billion cloud business, with Azure, Office 365, and Dynamics 365 driving strong growth. Its Azure business exceeded expectations, maintaining 34–35% growth, positioning Microsoft strongly in software, cloud, and AI markets.",
+    "url": "https://finance.yahoo.com/news/sent-microsoft-corporation-msft-higher-122518980.html"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "Microsoft to lay off around 3% of workforce in organization-wide cuts",
+    "date": "2025-05-13",
+    "summary": "Microsoft (MSFT.O), opens new tab said on Tuesday it was laying off less than 3% of its workforce, or around 6,000 employees, as the technology giant looks to rein in costs while funneling billions of dollars into its ambitious bet on artificial intelligence. The cuts will be across all levels and geographies and are likely the largest since Microsoft laid off 10,000 employees in 2023. ",
+    "url": "https://www.reuters.com/business/world-at-work/microsoft-lay-off-3-workforce-cnbc-reports-2025-05-13/"
+  } 
+]

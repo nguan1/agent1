@@ -1,0 +1,52 @@
+[
+  {
+    "ticker": "AAPL",
+    "title": "Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports",
+    "date": "2025-07-01",
+    "summary": "Apple is exploring using AI models from Anthropic or OpenAI to power a new version of Siri, as it rethinks its in-house approach and tests third-party options on its cloud. The move comes amid delays in Siri’s AI upgrades, leadership reshuffles, and a cautious AI strategy compared to rivals.",
+    "url": "https://www.reuters.com/business/apple-weighs-using-anthropic-or-openai-power-siri-major-reversal-bloomberg-news-2025-06-30/"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "Apple internally discussed buying Mistral, Perplexity, the Information reports",
+    "date": "2025-08-27",
+    "summary": "Apple (AAPL.O), opens new tab has held talks internally about acquiring French AI startup Mistral as well as Perplexity, the Information reported on Tuesday, citing people familiar with the matter. Apple has trailed rivals such as Alphabet's (GOOGL.O), opens new tab Google and Samsung in terms of roll-out of AI features in its devices.",
+    "url": "https://www.reuters.com/business/apple-internally-discussed-buying-mistral-perplexity-information-reports-2025-08-26/"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "Apple's tariff-fueled iPhone sales surge raises doubts about sustainability",
+    "date": "2025-08-02",
+    "summary": "Apple's best revenue growth in three years failed to impress, with shares down about 1% in volatile trading on Friday, as investors questioned whether a tariff-driven surge in iPhone sales would last. A rush to buy iPhones ahead of potential U.S. tariff-driven price increases, along with China subsidies and upbeat demand for the budget 16e model launched in February, fueled a 13.5% jump in the quarterly sales of the device, crushing expectations.",
+    "url": "https://www.reuters.com/business/apples-tariff-fueled-iphone-sales-surge-raises-doubts-about-sustainability-2025-08-01/"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "Musk says xAI to take legal action against Apple over App Store rankings",
+    "date": "2025-08-13",
+    "summary": " Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple (AAPL.O), opens new tab, accusing the iPhone maker of breaching antitrust regulations in managing App Store rankings.\"Apple is behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App Store, which is an unequivocal antitrust violation. xAI will take immediate legal action,\" Musk said in a post on his social media platform X.",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "Apple Posts Big Sales Beat on iPhone Demand, China Strength",
+    "date": "2025-08-01",
+    "summary": "Apple’s quarterly revenue handily topped analysts’ estimates, boosted by surprisingly strong sales of the iPhone and products in China. The results were solid enough to ease concerns about tariffs and the tech giant’s struggles with artificial intelligence.",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-07-31/apple-posts-big-sales-beat-on-iphone-demand-china-strength"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "JPMorgan Bumps Apple (AAPL) PT to $250, Keeps ‘Overweight’",
+    "date": "2025-07-20",
+    "summary": "JPMorgan raised Apple’s price target to $250 and reaffirmed its “Overweight” rating, citing AI potential, device replacement cycles, and strong Services growth. Meanwhile, Meta has lured away more of Apple’s AI talent, intensifying competition in the AI space.",
+    "url": "https://finance.yahoo.com/news/jpmorgan-bumps-apple-aapl-pt-150800931.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACj6QA7SClhH6yFF1NRU6dBxZg4NzTopWIwntZJSSVTDUshQjKC10f9lhTdBRpU1pYZzCh0kzvQWQygBCT5BGAu3uyegtNkLiXZ5jhtHRbaT6627Xg80L-15Hcm3HXiL1uCKWcTxYHXHhuxQ_zpGoFmuBd0tdcBbu2VbWWfLh8jH"
+  },
+   {
+    "ticker": "AAPL",
+    "title": "Apple is developing specialized chips for smart glasses and AI servers, Bloomberg News reports",
+    "date": "2025-05-09",
+    "summary": "Apple (AAPL.O), opens new tab is developing specialized chips that will power future devices including its first smart glasses, artificial intelligence servers and new MacBooks, Bloomberg News reported on Thursday. The iPhone-maker has made progress on the chip that it's developing for smart glasses, the report said, citing people with knowledge of the matter.",
+    "url": "https://www.reuters.com/world/china/apple-is-developing-specialized-chips-smart-glasses-ai-servers-bloomberg-news-2025-05-08/"
+  }
+
+]

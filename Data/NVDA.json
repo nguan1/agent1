@@ -1,0 +1,51 @@
+[
+  {
+    "ticker": "NVDA",
+    "title": "Nvidia hits record high as analyst predicts AI 'Golden Wave'",
+    "date": "2025-06-26",
+    "summary": "Nvidia's (NVDA.O), opens new tab stock hit a record high on Wednesday, and the chipmaker reclaimed the crown as the world's most valuable company after an analyst said the chipmaker was set to ride a \"Golden Wave\" of artificial intelligence.Shares of the Santa Clara, California-based company rose over 4% to a record high of $154.10. The rise sent Nvidia's stock market value to $3.76 trillion, overtaking Microsoft (MSFT.O), opens new tab, which was last valued at $3.65 trillion following a 0.2% increase in its stock.",
+    "url": "https://www.reuters.com/business/nvidia-hits-record-high-analyst-predicts-ai-golden-wave-2025-06-25/"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Trump's unusual Nvidia deal raises new corporate and national security risks, lawmakers and experts say",
+    "date": "2025-08-14",
+    "summary": "U.S. President Donald Trump upended decades of U.S. national security policy, creating an entirely new category of corporate risk, when he made a deal with Nvidia (NVDA.O), opens new tab to give the U.S. government a cut of its sales in exchange for resuming exports of banned AI chips to China. Historically, the U.S. government made decisions to control the export of sensitive technologies on national security grounds. Those decisions were viewed as non-negotiable; if a technology was controlled, companies could not buy their way around those controls, no matter how lucrative the foregone foreign sales",
+    "url": "https://www.reuters.com/legal/government/trumps-unusual-nvidia-deal-raises-new-corporate-national-security-risks-2025-08-12/"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Nvidia's stock market value hits $4 trillion on AI dominance",
+    "date": "2025-07-10",
+    "summary": "Nvidia (NVDA.O), opens new tab briefly reached a market capitalization of $4 trillion on Wednesday, making it the first company in the world to reach the milestone and solidifying its position as one of Wall Street's most-favored stocks. Shares of the leading chip designer rose as much as 2.8% to an all-time high of $164.42, benefiting from an ongoing surge in demand for artificial-intelligence technologies.",
+    "url": "https://www.reuters.com/world/china/nvidia-becomes-first-company-clinch-4-trillion-market-value-2025-07-09/"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Nvidia reiterates its chips have no backdoors, urges US against location verification",
+    "date": "2025-08-07",
+    "summary": "Nvidia (NVDA.O), opens new tab has published a blog post reiterating that its chips did not have backdoors or kill switches and appealed to U.S. policymakers to forgo such ideas saying it would be a \"gift\" to hackers and hostile actors. The blog post, which was published on Tuesday in both English and Chinese, comes a week after the Chinese government summoned the U.S. artificial intelligence (AI) chip giant to a meeting saying it was concerned by a U.S. proposal for advanced chips sold abroad to be equipped with tracking and positioning functions.",
+    "url": "https://www.reuters.com/world/china/nvidia-reiterates-its-chips-have-no-backdoors-urges-us-against-location-2025-08-06/"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "How the world’s most valuable company got caught in the middle of Trump’s spat with China",
+    "date": "2025-08-12",
+    "summary": "Nvidia and AMD agreed to pay the U.S. government 15% of revenues from AI chip sales to China to obtain export licenses, allowing resumed shipments of H20 and MI380 chips despite prior restrictions. The deal balances U.S. national security and trade goals, potentially generating billions in revenue while keeping China dependent on American technology.",
+    "url": "https://edition.cnn.com/2025/08/11/tech/nvidia-amd-trump-china-explained"
+  },
+  {
+    "ticker":"NVDA",
+    "title":"Why Wall Street has developed an unhealthy obsession with Nvidia",
+    "date":"2025-08-31",  
+    "summary":"Nvidia’s earnings continue to captivate investors, with its $4 trillion market cap and dominance in AI chips making it a major driver of both the S&P 500 and global tech sentiment. However, concerns are rising that AI hype may be outpacing real-world impact, as massive tech investment hasn’t yet translated into meaningful productivity or consumer growth.",
+    "url":"https://edition.cnn.com/2025/08/30/business/nvidia-wall-street-nightcap"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "Nvidia earnings to reveal hit from US export curbs on China",
+    "date": "2025-05-27",
+    "summary": "Nvidia (NVDA.O), opens new tab investors will look for definitive answers on how much U.S. chip curbs on China will cost the company when it reports results on Wednesday, even as a pullback in other regulations is expected to open up new markets. In a fresh effort to stymie Beijing's access to cutting-edge technology, the Trump administration last month put export limits on Nvidia's H20 chip - a move the company said would result in $5.5 billion in charges.",
+    "url": "https://www.reuters.com/world/china/nvidia-earnings-reveal-hit-us-export-curbs-china-2025-05-27/"
+  }
+]
